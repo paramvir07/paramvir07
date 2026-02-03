@@ -13,10 +13,9 @@ My name is Paramvir Singh and I'm a Full-Stack Developer & CIS student from Brit
 ###
 
 <p align="left">
-✨ Creating bugs and fixing them since I started coding 😭<br>
+✨ Creating bugs and fixing them since I started coding <br>
 📚 I'm currently learning advanced React patterns, system design, and real-time app architecture<br>
 🎯 Goals: Become a strong software engineer and build products people actually use<br>
-🎲 Fun fact: I think I'm funny… my code sometimes disagrees
 </p>
 
 ###
